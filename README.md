@@ -2,6 +2,10 @@
 
 A Python-based audio synthesis tool that generates ambient white noise processed with a low-pass filter to simulate the sound of rain. It features a configurable Low Frequency Oscillator (LFO) to introduce dynamic volume pulsing, creating a more natural and organic texture.
 
+# Quickstart
+If you PREFER to run this in a browser, you can! Visit here:
+https://colab.research.google.com/drive/1qjRIw4dDrJRewt1h3PrHy-up7mOoDPCZ?usp=sharing#scrollTo=-L8Zs-IdOumf
+
 ## 🎵 Features
 
 * **White Noise Synthesis**: Generates pure white noise using NumPy.
