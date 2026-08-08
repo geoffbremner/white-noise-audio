@@ -1,3 +1,11 @@
+---
+
+👤 **Author:** Geoff Bremner  
+🔗 **Connect:** https://linktr.ee/gbaudio  
+🤖 **Built with Gemini and tested with Gemini.**
+
+---
+
 # White Noise Generator with LFO
 
 A Python-based audio synthesis tool that generates ambient white noise processed with a low-pass filter to simulate the sound of rain. It features a configurable Low Frequency Oscillator (LFO) to introduce dynamic volume pulsing, creating a more natural and organic texture.
@@ -59,10 +67,4 @@ You can tweak the sound generation by modifying the constants at the top of the 
 * `scipy` (Signal processing and filtering)
 * `IPython` (Audio widget playback)
 
-## 👤 Author
-
-**Geoff Bremner**
-* [Linktree](https://linktr.ee/gbaudio)
-
----
 *Generated for the White Noise Generator with LFO project.*
